@@ -13,6 +13,7 @@ Permite organizar projetos, ambientes (teste, produção) ou aplicações inteir
 Facilita o gerenciamento, monitoramento, automação e até exclusão de todos os recursos juntos.
 
 🔐 IAM (Controle de Acesso)
+
 O IAM (Identity and Access Management) controla quem pode acessar o grupo e o que pode fazer.
 
 Funciona com base em RBAC (Controle de Acesso Baseado em Função).
@@ -28,11 +29,13 @@ Proprietário: controle total, inclusive de permissões.
 Também suporta grupos, usuários e identidades gerenciadas.
 
 🔍 Visualizador de Recursos
+
 Ferramenta que permite visualizar, de forma hierárquica e detalhada, como todos os recursos estão relacionados dentro do grupo.
 
 Útil para entender dependências, topologias e estrutura dos recursos.
 
 🔔 Eventos (Logs e Monitoramento)
+
 Permite acompanhar tudo que ocorre no grupo de recursos, como:
 
 Criação, modificação e exclusão de recursos.
@@ -42,6 +45,7 @@ Falhas, alertas e atividades administrativas.
 É integrado ao Azure Monitor, Activity Log e pode gerar alertas automáticos.
 
 🛠️ Demais Opções no Grupo de Recursos:
+
 Tags: Marcação de recursos para organização e custos.
 
 Locks (Bloqueios): Impede deleção ou alterações acidentais (CanNotDelete e ReadOnly).
